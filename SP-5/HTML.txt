@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="css/style.css">
+  <title>Blog Design</title>
+</head>
+<body>
+  <div class="wrapper">
+    <header>
+      <div id="logo">
+        My Blog
+      </div>
+    </header>
+    <div id="big-image">
+    </div>
+    <main>
+      <section>
+        <article>
+          <h2><a href="">About Me</a></h2>
+          <span>By Binti</span>
+          <p>Myself Binti Biswas and now I'm a student of Daffodil International University from the Department of Computer Science & Engineering.  As a CSE student, I have a little bit of knowledge of problem-solving skills & experience with MS office. I want to learn more and more, so, I'm creating more interest in learning new things which are relatable to CSE to enrich my skills which is the goal of my study.</p>
+        </article>
+      </section>
+      <aside>
+        <h3>Useful Links</h3>
+        <ul>
+          <li>
+            <a href="https://www.linkedin.com/in/binti-biswas-73789a1ab/">linkedin.com</a>
+          </li>
+          <li>
+            <a href="https://github.com/BintiBiswas">github.com</a>
+          </li>
+        </ul>
+      </aside>
+    </main>
+    <footer>
+      &copy; All rights reserved by Binti
+    </footer>
+  </div>
+</body>
+</html>
